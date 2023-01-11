@@ -1,2 +1,2 @@
 
-console.log("I'M GOOD!ere");
+console.log("I'M GOOD!");
